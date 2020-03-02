@@ -1,0 +1,401 @@
+Timestamp,Jenis Kelamin,Umur,Kota,Jumlah Karyawan Teknologi di Perusahaan,Base Salary Setahun,Total Allowance+Bonus Setahun,Jumlah RSU/Stock/Stock Option,Posisi/Jabatan,Lama Pengalaman (Tahun),Pendidikan Terakhir,Coverage Asuransi
+15/02/2020 12:22:25,Laki-Laki,27,Jakarta,1.000,216.000.000,258.000.000,0,"Software Engineer, Front End",5,S1,
+15/02/2020 12:31:02,Laki-Laki,25,Jakarta,20,192.000.000,32.000.000,0,Frontend Engineer,4,S1,Rawat inap
+15/02/2020 12:33:01,Laki-Laki,30,Depok,20,100.000.000,0,0,programer,10,s1,
+15/02/2020 12:33:07,Laki-Laki,23,Bandung,3.000,95.000.000,25.000.000,0,SDE,2,S1,"BPJS, reimburse"
+15/02/2020 12:33:28,Laki-Laki,23,Jakarta,3,96.000.000,0,0,Staff Android Developer,3,S1,BPJS
+15/02/2020 12:33:35,Laki-Laki,28,Bandung,40,324.000.000,0,0,Kepala Departemen,6,S1,
+15/02/2020 12:33:43,Laki-Laki,28,Bandung,50,56.400.000,4.700.000,0,Tech Lead,3,S2,
+15/02/2020 12:34:04,Laki-Laki,33,Gresik,500,36.000.000,0,0,Front End Engineer,9,SMA,0
+15/02/2020 12:37:19,Laki-Laki,34,Jakarta,8,12.000.000,200.000.000,0,CTO,10,S1,
+15/02/2020 12:37:34,Laki-Laki,25,Malang,1,30.000.000,2.000.000,0,IT Specialist,3,Sarjana,-
+15/02/2020 12:39:35,Laki-Laki,23,Bandung,1.000,112.000.000,130.000.000,0,Software Engineer Fullstack,1,S1,All
+15/02/2020 12:42:53,Laki-Laki,29,Jakarta,200,324.000.000,54.000.000,0,Engineering Team Lead,7,S2,
+15/02/2020 12:50:25,Laki-Laki,32,Jakarta,100,449.891.000,519.105.000,0,Sr Software Engineer,9,S1,"Anak 1 Istri, Dental, Kacamata"
+15/02/2020 12:55:18,Laki-Laki,34,Tangerang Selatan,30,300.000.000,30.000.000,0,IT Developer Manager,12,D3,BPJS dan Swasta
+15/02/2020 12:56:39,Laki-Laki,23,Jakarta,6,66.000.000,0,0,jr mobile engineer,1,smk,bpjs
+15/02/2020 12:56:57,Laki-Laki,21,Bandung (Remote work),10,120.000.000,0,0,Software Engineer Intern (Part-time),0,S1,No
+15/02/2020 12:57:29,Laki-Laki,24,Jakarta Selatan,5.000,27.000.000,35.000.000,5,Machine Learning Engineer/Junior Manager,2,S1,Ya
+15/02/2020 13:06:23,Laki-Laki,27,Jakarta,400,18.000.000,250.000.000,0,Product Manager,6,S1 Sistem & Teknologi Informasi,
+15/02/2020 13:07:34,Laki-Laki,27,Jakarta Barat,50,322.000.000,35.000.000,0,Sr. Software Engineer,7,S1,"dental, eye, outpatient, inpatient"
+15/02/2020 13:10:56,Laki-Laki,28,Jakarta,100,154.000.000,108.000.000,0,Data scientist,6,S2,Kesehatan termasuk keluarga
+15/02/2020 13:14:22,Laki-Laki,19,Bogor,10,70.000.000,0,0,Junior software engineer,1,SMK,
+15/02/2020 13:15:27,Laki-Laki,24,Malang,30,60.000.000,0,0,Software Engineer,2,S.Kom,0
+15/02/2020 13:17:06,Laki-Laki,28,Jakarta,1.500,168.000.000,35.000.000,0,Web Engineer,5,S1,Ya
+15/02/2020 13:18:07,Laki-Laki,21,Batam,12,300.000.000,0,0,Coding Mentor,3,SMK,
+15/02/2020 13:25:13,Laki-Laki,28,Jakarta Selatan,100,240.000.000,0,0,Tech Lead,9,S1,
+15/02/2020 13:25:37,Laki-Laki,25,Jakarta,900,144.000.000,0,0,Software Engineer,1,S1,"BPJS, Swasta"
+15/02/2020 13:25:52,Laki-Laki,23,Bandung,150,180.000.000,75.000.000,0,Senior Software Engineer,3,S1,Personal + pasangan + anak
+15/02/2020 13:26:10,Laki-Laki,23,Jakarta,100,960.000.000,8.000.000,0,React native developer,2,Diploma,Bpjs & jht
+15/02/2020 13:26:46,Laki-Laki,36,Bandung ,20,480.000.000,480.000.000,0,Fullstack Developer,12,SMA,
+15/02/2020 13:28:12,Perempuan,19,Jakarta,8,72.000.000,0,0,PHP developer,2,SMK,
+15/02/2020 13:33:34,Laki-Laki,25,Jakarta,5,138.000.000,149.000.000,0,Web Developer,3,S1,Bpjs
+15/02/2020 13:34:32,Laki-Laki,27,Jakarta ,20,114.000.000,133.000.000,0,Web Programmer ,3,S1,Reimburse
+15/02/2020 13:34:38,Laki-Laki,29,Jakarta,3.000,610.000.000,75.000.000,200,Senior Software Engineer,7,S1,bpjs dan asuransi lainnya lengkap sampe anak ketiga
+15/02/2020 13:50:33,Laki-Laki,31,Jakarta,3,559.000.000,0,0,Software Engineer,10,S1,
+15/02/2020 13:50:59,Laki-Laki,28,Semarang,30,360.000.000,70.000.000,0,Lead Engineer,6,S1,
+15/02/2020 13:54:30,Laki-Laki,27,Jakarta,1.000,354.000.000,92.360.000,0,Product Manager,5,S1,Inpatient 1.200.000 outpatient lupa 
+15/02/2020 13:55:54,Laki-Laki,36,Jakarta ,70,845.000.000,0,0,Top Management,14,S1,"Full cover, 1 istri 2 anak"
+15/02/2020 13:55:59,Laki-Laki,23,Jakarta,150,25.000.000,30.000.000,0,Admin IT,1,S1 Sistem Informasi,"200,000/bulan"
+15/02/2020 13:56:34,Laki-Laki,22,Jakarta,4,4.500.000,0,0,Engineer,1,D3,BPJS
+15/02/2020 13:57:42,Laki-Laki,25,Jakarta,18,54.000.000,0,0,Security analyst tier 1,0,S1,4500000/taun sesuai dengan gaji perbulan
+15/02/2020 13:57:49,Laki-Laki,24,Jakarta,1.000,225.000.000,40.000.000,0,Software Engineer II,2,S1,"BPJS, Swasta"
+15/02/2020 13:59:28,Perempuan,24,Malang,3,3.000.000,3.800.000,0,IT staff,2,D4,-
+15/02/2020 14:00:46,Laki-Laki,22,Yogyakarta,100,66.000.000,7.500.000,0,Jr Backend Developer,1,S1,"Bpjs tk, jht, jkk, asuransi pihak 3"
+15/02/2020 14:01:48,Laki-Laki,40,Jakarta ,1.000,48.000.000,76.000.000,0,OSS Admin,10,S1,Bpjs 
+15/02/2020 14:02:25,Laki-Laki,20,Jakarta,150,54.000.000,0,0,Frontend Developer,1,SMK,BPJS
+15/02/2020 14:02:31,Perempuan,24,Malang,3,3.000.000,3.800.000,0,IT staff,2,D4,-
+15/02/2020 14:05:23,Laki-Laki,26,Jakarta,150,80.000.000,20.000.000,0,Bisnis analis,3,D3,Ya
+15/02/2020 14:06:45,Perempuan,22,Jakarta,50,60.000.000,5.000.000,0,System analyst,1,Diploma,"Bpjs, asuransi"
+15/02/2020 14:07:51,Laki-Laki,24,Bandar Lampung,5,84.000.000,20.000.000,0,Tenaga Ahli Database,1,S1,0
+15/02/2020 14:09:37,Perempuan,24,Timika,5.000,140.000.000,0,0,Admin,,S1,
+15/02/2020 14:10:11,Laki-Laki,24,Jakarta,5,48.000.000,52.000.000,0,Tester,1,Smk,
+15/02/2020 14:11:02,Laki-Laki,23,Jakarta Selatan,50,63.600.000,18.000.000,0,Team Leader/Supervisor,5,SMK,Yes
+15/02/2020 14:11:49,Laki-Laki,23,Semarang,3,32.580.000,0,0,senior web dev,1,s1,0
+15/02/2020 14:11:59,Laki-Laki,23,Jakarta,8.000,120.000.000,136.500.000,0,Data Engineer,2,SMA,"Full cover, istri + 3 anak, dental, vision"
+15/02/2020 14:12:19,Laki-Laki,23,Cirebon,38,42.000.000,12.000.000,0,Mobile Developer,1,SMK,
+15/02/2020 14:14:44,Laki-Laki,27,Jakarta Selatan,100,140.000.000,155.000.000,0,Software Engineer,1,SMA,"BPJS, FWD"
+15/02/2020 14:15:30,Laki-Laki,21,Bekasi,20,50.000.000,20.000.000,0,IT Specialist,1,SMK,
+15/02/2020 14:16:00,Perempuan,23,Kudus,50,60.000.000,65.000.000,0,Karyawan Bulanan,1,S1,No
+15/02/2020 14:17:04,Laki-Laki,24,Tangerang,11,42.000.000,51.500.000,0,App Designer,1,S1,BPJS
+15/02/2020 14:18:00,Perempuan,23,Kudus,50,60.000.000,65.000.000,0,"Karyw bulanan, ABAPer",1,S1,BPJS
+15/02/2020 14:18:04,Perempuan,28,Jakarta,50,300.000.000,350.000.000,0,Product Manager,5,SMA,"BPJS, Private insurance"
+15/02/2020 14:19:23,Laki-Laki,27,Kab. Tangerang,500,510.000.000,84.000.000,0,Robotics Engineer,3,D4 tidak lulus,"BPJS, Sinarmas"
+15/02/2020 14:21:09,Laki-Laki,19,Bekasi,3,37.000.000,0,0,Sofware Engineer,1,SMK,
+15/02/2020 14:24:33,Laki-Laki,20,Singapura,5.000,680.000.000,110.000.000,0,Software Engineer,0,S1,Ya
+15/02/2020 14:26:39,Laki-Laki,24,Jakarta Selatan,1.000,200.000.000,90.000.000,0,Associate Data Scientist,1,S1,60000000
+15/02/2020 14:28:29,Laki-Laki,35,Bandung,1,835.000.000,0,0,UI/UX/front-end dev (freelancing),13,S1,Tidak ada / ngatur sendiri
+15/02/2020 14:31:02,Laki-Laki,25,Jakarta Selatan,18,240.000.000,0,0,CTO,6,SMA,"Bpjs, asuransi + gigi"
+15/02/2020 14:31:16,Laki-Laki,26,Depok,8,144.000.000,51.000.000,0,Senior Backend Developer,4,S1,BPJS
+15/02/2020 14:34:03,Perempuan,23,Jakarta Barat,12,84.000.000,0,0,UX Designer,0,S1,BPJS
+15/02/2020 14:35:37,Laki-Laki,25,Jakarta,50,6.400.000,5.400.000,0,IT NOC,8,SMK,Ya
+15/02/2020 14:37:30,Laki-Laki,33,Jakarta,0,950.000.000,0,0,Freelancer / Front-end Dev,9,D3,No
+15/02/2020 14:37:54,Laki-Laki,24,Bandung,12,108.000.000,117.000.000,0,Head Infra,5,SMK,BPJS
+15/02/2020 14:44:22,Laki-Laki,25,Jakarta,100,140.000.000,160.000.000,0,Analis informatika biologi molekuler,1,S2,"Full oleh kantor, termasuk keluarga inti"
+15/02/2020 14:45:38,Laki-Laki,27,Jakarta,300,180.000.000,54.000.000,0,Software developer engineer,4,S1,"Kesehatan (pasangan + 3 anak), ketenagakerjaan"
+15/02/2020 14:52:15,Laki-Laki,29,Tangerang,20,180.000.000,200.000.000,0,Staf,7,S1,"Rawat jalan, rawat inap, exclude kacamata, melahirkan"
+15/02/2020 14:52:17,Laki-Laki,22,Singapura,1.000,700.000.000,115.000.000,665.000.000,Software Engineer,0,S1,Full asuransi kesehatan
+15/02/2020 14:57:47,Laki-Laki,34,Tangerang Selatan,6,336.000.000,106.000.000,0,IT Manager,12,S1,Swasta 3 orang + BPJS
+15/02/2020 15:00:19,Laki-Laki,25,Jakarta,2.000,168.000.000,28.000.000,10,Software Developer,2,S1,"BPJS, Asuransi Swasta"
+15/02/2020 15:00:28,Laki-Laki,27,Jakarta,3,216.000.000,30.000.000,0,Software Engineer,3,S1,Rawat Inap Rawat Jalan
+15/02/2020 15:02:14,Laki-Laki,24,Jakarta,2,60.000.000,0,0,Frontend Web Developer,1,S1,
+15/02/2020 15:05:00,Laki-Laki,22,Jakarta,30,60.000.000,0,0,Software dev,0,S1,-
+15/02/2020 15:05:56,Perempuan,20,Jakarta,500,90.000.000,0,0,Software engineer,0,S1,Basic health care
+15/02/2020 15:08:06,Laki-Laki,23,Jakarta ,1.100,174.000.000,29.000.000,0,Data Engineer,1,S1,"BPJS + Asuransi (dental, kacamata, dan lainnya)"
+15/02/2020 15:12:11,Laki-Laki,30,Jakarta,800,294.000.000,348.000.000,0,"Mid level, iOS Software Engineer",5,S1,"Rawat inap, kacamata"
+15/02/2020 15:19:47,Laki-Laki,22,Jakarta,1.000,96.000.000,0,0,Junior App Developer (Backend),0,S1,"BPJS TK, BPJS Kesehatan"
+15/02/2020 15:21:07,Laki-Laki,33,Tangerang Selatan,1,550.000.000,3.000.000,0,Freelance,7,s2,0
+15/02/2020 15:24:44,Laki-Laki,23,Sidoarjo,120,35.000.000,3.500.000,0,Junior Staff,2,S1,0
+15/02/2020 15:26:48,Laki-Laki,22,Jakarta,18,54.000.000,0,0,Junior web developer,1,SMA,
+15/02/2020 15:29:04,Laki-Laki,24,Malang,10,36.000.000,0,0,Junior Frontend,1,S1,-
+15/02/2020 15:34:54,Perempuan,26,Bandung,30,132.000.000,143.000.000,0,AI Engineer,2,S2,BPJS kesehatan + ketenagakerjaan
+15/02/2020 15:34:56,Laki-Laki,35,Jakarta,1.000,720.000.000,360.000.000,0,Head of Architect,12,S1,BPJS + Swasta (full cover)
+15/02/2020 15:37:12,Laki-Laki,27,Malang,40,48.000.000,52.000.000,0,Software Engineer,3,S1,0
+15/02/2020 15:42:30,Laki-Laki,19,Kota Malang,25,37.200.000,10.800.000,0,Android Engineer,0,SMK,
+15/02/2020 15:49:59,Laki-Laki,25,Surabaya,3,60.000.000,10.000.000,0,Fullstack,2,S1,BPJS
+15/02/2020 15:50:14,Laki-Laki,25,Jakarta,20,15.000.000,1.500.000,0,Software Engineer,2,S1,
+15/02/2020 15:53:48,Laki-Laki,31,Surabaya,150,90.000.000,97.500.000,0,Senior Network Engineer,13,SMK,BPJS
+15/02/2020 15:54:58,Perempuan,26,Jakarta,200,360.000.000,390.000.000,0,BI Manager,3,S2,
+15/02/2020 15:55:43,Laki-Laki,30,Singapore (Remote),15,273.600.000,66.010.769,0,Senior Software Engineer,6,S2,BPJS
+15/02/2020 15:57:02,Laki-Laki,29,Seattle,16.000,3.150.000.000,840.000.000,7.000.000.000,Software Engineer,6,S1,Ya
+15/02/2020 15:58:20,Laki-Laki,26,Yogyakarta,50,408.000.000,442.000.000,0,Principal Engineer,7,S1,"BPJS + Asuransi diluar BPJS, istri + 2 anak"
+15/02/2020 16:06:14,Laki-Laki,23,Bandung,1,58.000.000,15.000.000,0,Assistant Supervisor ,5,SMK ,BPJS
+15/02/2020 16:06:56,Laki-Laki,32,Perth (Remote),30,528.000.000,0,0,Senior Software Developer,11,S1,
+15/02/2020 16:10:04,Laki-Laki,27,Jakarta Selatan,80,300.000.000,25.000.000,0,Sr. Data Engineer,5,S1,0
+15/02/2020 16:11:24,Laki-Laki,25,Jakarta Selatan,1.000,192.000.000,16.000.000,0,"Software Engineer, Android",6,D4,BPJS dan Asuransi Swasta
+15/02/2020 16:11:35,Laki-Laki,44,Bogor,10,600.000.000,100.000.000,0,Software Engineer Manager,19,Diploma,0
+15/02/2020 16:14:42,Laki-Laki,23,Bandung,20,108.000.000,10.000.000,0,Full stack engineer,0,S1,5000000
+15/02/2020 16:17:27,Laki-Laki,25,Jakarta Selatan,500,192.000.000,372.000.000,0,Software Engineer,5,S1,
+15/02/2020 16:18:33,Perempuan,28,Jakarta Selatan,200,420.000.000,490.000.000,0,Senior Software Engineer,5,S1,
+15/02/2020 16:19:47,Laki-Laki,27,Jakarta Selatan,5.000,216.000.000,270.000.000,0,Data Analyst Staff,4,Sarjana,"Generali, BPJS TK, BPJS JHT, BPJS Kesehatan"
+15/02/2020 16:24:26,Laki-Laki,25,Jakarta,50,75.000.000,6.250.000,0,Frontend Engineer,1,Sarjana,Swasta reimbursement
+15/02/2020 16:28:07,Laki-Laki,26,Bandung,7,60.000.000,240.000.000,0,Junior,5,SMA,0
+15/02/2020 16:30:17,Laki-Laki,30,Jakarta selatan,0,180.000.000,125.000.000,0,Software developer,7,S1,0
+15/02/2020 16:33:51,Laki-Laki,23,Jakarta,40,96.000.000,0,0,Backend Engineer,0,D3,
+15/02/2020 16:36:30,Laki-Laki,37,Malang,4,480.000.000,40.000.000,0,Lead Developer,15,S1,
+15/02/2020 16:38:23,Laki-Laki,27,Jakarta,15,312.000.000,120.000.000,0,Product Manager,5,S1,Banyak deh
+15/02/2020 16:46:19,Laki-Laki,34,Yogyakarta,40,96.000.000,20.000.000,0,Senior Programmer,10,S1,
+15/02/2020 16:48:22,Perempuan,27,Jakarta,80,180.000.000,15.000.000,0,Staff Data Scientist,3,S1,"outpatient, inpatient (include family), dental, flexible benefit for development/learning"
+15/02/2020 16:55:15,Laki-Laki,28,Jakarta Selatan,2.000,252.000.000,25.000.000,0,Software Engineer,6,D3,Yes
+15/02/2020 16:57:56,Laki-Laki,42,Malang,300,690.000.000,210.000.000,0,Senior Engineer,18,S1,Yes. Istri + 3 anak.
+15/02/2020 16:58:41,Laki-Laki,21,Malang,60,168.000.000,0,0,Software Engineer ,0,SMA,
+15/02/2020 17:04:41,Laki-Laki,32,Jakarta,700,240.000.000,60.000.000,0,SDE,10,S1,10000000
+15/02/2020 17:09:39,Laki-Laki,26,Yogya,30,48.000.000,4.000.000,0,Backend Engineer,4,S1,Tidak
+15/02/2020 17:11:04,Laki-Laki,25,Jakarta barat ,40,100.000.000,10.000.000,0,Fullstack Developer,4,D3,Bpjs only
+15/02/2020 17:11:41,Laki-Laki,34,New York ( Remote ),5,575.000.000,0,0,Frontend Engineer,9,SMK,0
+15/02/2020 17:11:42,Laki-Laki,30,Malang,3.000,572.400.000,142.000.000,600.000.000,Data Engineer,8,S1,Keluarga Inti
+15/02/2020 17:13:38,Laki-Laki,33,Jakarta,400,480.000.000,82.000.000,0,Principal Software Engineer,9,S1,49000000
+15/02/2020 17:20:50,Laki-Laki,25,Malang (Remote),37,141.936.000,177.420.000,0,Software Engineer,7,SMK,"BPJS Kesehatan, BPJS Ketenagakerjaan, FWD"
+15/02/2020 17:27:43,Laki-Laki,29,Singapura,100,780.000.000,65.000.000,0,Senior Software Engineer,5,S1,Ya
+15/02/2020 17:31:28,Laki-Laki,24,Jakarta,500,576.000.000,630.000.000,0,Software Engineer,3,S1,"BPJS, Reimburse, Kacamata, Istri, Anak, Rawat inap dll"
+15/02/2020 17:34:56,Laki-Laki,25,Jakarta,60,72.000.000,15.000.000,0,Customer support,2,D4,Yes
+15/02/2020 17:39:35,Laki-Laki,25,Jakarta Pusat,30,260.000.000,60.000.000,40.000.000,Senior Backend Developer,3,S1,"Inap, jalan, gigi, kacamata"
+15/02/2020 17:41:55,Laki-Laki,22,Jakarta,20,93.000.000,20.000.000,0,Frontend Engineer,0,S1,BPJS + BNI Life
+15/02/2020 17:48:11,Laki-Laki,22,Malang (Remote),10,50.000.000,0,0,Entry level Software engineer,1,S1 S.Kom,0
+15/02/2020 17:54:06,Laki-Laki,24,Jakarta,2.000,452.000.000,30.000.000,0,Jr software engineer,2,S1,Alianz
+15/02/2020 18:01:22,Perempuan,23,Surabaya,20,42.000.000,0,0,Frontend Developer,0,S1,-
+15/02/2020 18:01:35,Laki-Laki,25,Jakarta Selatan,180,318.000.000,79.500.000,0,Software Engineer,3,S1,Plan 1 Lippo Insurance
+15/02/2020 18:03:31,Laki-Laki,25,Jakarta Selatan,70,91.200.000,50.000.000,0,Backend Developer,2,S1,
+15/02/2020 18:12:29,Laki-Laki,27,Jakarta,2,58.800.000,40.000.000,0,Web Developer,2,S1,BPJS
+15/02/2020 18:23:16,Laki-Laki,22,Jakarta,1.000,300.000.000,60.000.000,0,Product Engineer,0,S1,"BPJS, dental, kacamata"
+15/02/2020 18:38:37,Laki-Laki,24,Jakarta Selatan,7.000,400.000.000,80.000.000,1.000.000.000,Product Engineer,2,S1,"Orang tua, semua kesehatan pribadi termasuk kacamata dll, sama kalo ada istri"
+15/02/2020 18:39:54,Perempuan,26,Yogyakarta,30,161.520.000,32.000.000,0,ML Engineer,1,S2,BPJS + BNI life
+15/02/2020 18:40:07,Laki-Laki,23,DKI Jakarta,1.000,100.000.000,20.000.000,0,Junior,0,S1,8.000.000
+15/02/2020 18:40:33,Laki-Laki,22,Jakarta Selatan ,15,54.000.000,72.000.000,0,IT Staff Programmer ,1,S1,Bpjs
+15/02/2020 18:45:42,Laki-Laki,26,Jakarta,350,240.000.000,50.000.000,0,Supervisor Software Engineer,4,S1,
+15/02/2020 18:54:47,Perempuan,30,Jakarta Utara,10,150.000.000,15.000.000,0,Sr Software Engineer,8,S1,BPJS + Swasta
+15/02/2020 18:56:32,Laki-Laki,24,Jakarta,1.000,204.000.000,228.000.000,0,Software Development Engineer,2,S1,BPJS & asuransi swasta
+15/02/2020 19:00:32,Laki-Laki,27,Bekasi,40,84.000.000,11.500.000,0,SRE,2,S2,4000000
+15/02/2020 19:00:36,Laki-Laki,27,Surakarta (remote),50,90.000.000,10.000.000,0,Fullstack Developer,4,S1,BPJS and 50%off for uncovered claims 
+15/02/2020 19:04:26,Laki-Laki,29,Jakarta,100,300.000.000,100.000.000,0,Staf,7,S2,
+15/02/2020 19:06:04,Laki-Laki,29,Jakarta Selatan,3,130.000.000,147.000.000,0,Frontend dev,2,S1,Bpjs
+15/02/2020 19:06:18,Laki-Laki,39,Jakarta Selatan,100,360.000.000,350.000.000,0,VP IT,12,S2,"Rawat jalan, rawat inap, gigi, maternity, kacamata"
+15/02/2020 19:22:44,Laki-Laki,23,Bandar Seri Begawan (Remote),16,84.000.000,0,0,Product Engineer,4,SMK,--
+15/02/2020 19:32:11,Laki-Laki,22,Jakarta,20,98.400.000,8.200.000,0,Frontend Engineer,1,S1,ya
+15/02/2020 19:36:02,Laki-Laki,40,Jakarta,400,672.000.000,0,201.600.000,Head of DevOps,5,D3,Full
+15/02/2020 19:38:32,Laki-Laki,36,Singapore,100,1.500.000.000,1.800.000.000,0,Head of IT Visa Singapore,10,S2,Yes
+15/02/2020 19:45:46,Laki-Laki,24,Bandung,1.500,180.000.000,15.000.000,0,Front End Developer,2,S1,
+15/02/2020 19:48:18,Laki-Laki,24,Jakarta,18,180.000.000,20.000.000,0,Software Engineer,0,S1,"BPJS, Reimburse"
+15/02/2020 19:59:57,Laki-Laki,27,Amsterdam,2.000,1.200.000.000,150.000.000,0,software Engineer,4,S1,
+15/02/2020 20:04:52,Laki-Laki,33,Jakarta Selatan,1,240.000.000,12.000.000,0,IT,12,S1,Tidak Tahu
+15/02/2020 20:09:02,Laki-Laki,27,Jakarta,2.000,1.056.000.000,300.000.000,2.400.000.000,Product Manager,4,S1,
+15/02/2020 20:10:50,Laki-Laki,31,Jakarta Selatan,60,732.000.000,183.000.000,2.296.168.000,Senior Product Manager,9,B.Eng,FWD
+15/02/2020 20:12:24,Laki-Laki,28,Jakarta Selatan,30,492.000.000,47.000.000,0,head of engineering,10,SMK,"bpjs, private insurance"
+15/02/2020 20:12:37,Perempuan,27,Jakarta Pusat,1.000,84.000.000,1,0,Solution Architect,2,S1,6x gaji / tahun
+15/02/2020 20:16:40,Laki-Laki,28,Singapore ,5.000,800.000.000,,0,Software engineer ,5,S1,
+15/02/2020 20:17:06,Laki-Laki,30,Bandung,2.000,224.000.000,34.000.000,0,Frontend Engineer,6,S1,"BPJS, Private"
+15/02/2020 20:21:01,Laki-Laki,24,Malang,5,66.000.000,10.000.000,0,Software Engineer,1,S1,
+15/02/2020 20:48:36,Laki-Laki,23,Bekasi,4,90.000.000,97.500.000,0,Programmer ,1,S1,Bpjs 
+15/02/2020 20:49:26,Laki-Laki,29,Yogyakarta,300,144.000.000,57.600.000,0,Android Developer (native),6,S1,BPJS + Asuransi
+15/02/2020 20:53:04,Laki-Laki,23,Jakarta,3.000,270.000.000,60.000.000,0,Senior Product Designer,4,SMK,20000000
+15/02/2020 21:09:11,Laki-Laki,23,Medan,13,48.000.000,52.000.000,0,Junior Dev,0,SMA,0
+15/02/2020 21:09:43,Laki-Laki,28,Surabaya,5,96.000.000,8.000.000,0,Programmer,2,SMA,
+15/02/2020 21:11:12,Perempuan,22,Ternate,2,25.000.000,40.000.000,0,Pranata Komputer Ahli Pertama,0,S1,BPJS
+15/02/2020 21:17:13,Laki-Laki,24,Jakarta,900,288.000.000,333.000.000,0,Senior frontend developer,2,S1 Teknik informatika,Semua jenis
+15/02/2020 21:20:48,Laki-Laki,24,Jakarta,900,288.000.000,50.000.000,0,Product engineer,2,S1,BPJS + Private insurance
+15/02/2020 21:21:37,Laki-Laki,27,Jakarta,25,150.000.000,110.000.000,0,Software Engineer,3,S1,"Bpjs + swasta, istri + 3 anak"
+15/02/2020 21:29:33,Perempuan,24,Jakarta Selatan,500,78.000.000,0,0,Software QA,0,D3,"Asuransi swasta, bpjs"
+15/02/2020 21:43:53,Laki-Laki,37,Bekasi,20,720.000.000,0,0,Sensor software engineer,12,S1,
+15/02/2020 21:48:24,Laki-Laki,28,Yogyakarta (Remote),50,540.000.000,90.000.000,0,Software Engineer,9,SMK,"BPJS Kesehatan, BPJS TK, Asuransi Kesehatan Swasta"
+15/02/2020 22:22:07,Laki-Laki,30,Magelang,2,24.000.000,1.000.000,0,admin marketing dan developer system,7,SMK,0
+15/02/2020 22:30:49,Laki-Laki,22,Yogyakarta,0,1.600.000,0,0,Android developer,3,S1,
+15/02/2020 22:32:32,Laki-Laki,28,Jakarta,3.000,600.000.000,100.000.000,0,SRE Lead,5,S1,"BPJS, BPJSTK"
+15/02/2020 22:38:39,Laki-Laki,22,Jakarta,200,264.000.000,132.000.000,0,Software Engineer Backend,1,S1,Kesehatan
+15/02/2020 22:44:46,Laki-Laki,31,Jakarta,40,60.000.000,15.000.000,0,Business Operations Staff,1,S1,"BPJS, Rawat Inap, Rawat Jalan (Reimburse)"
+15/02/2020 22:46:23,Laki-Laki,33,Jakarta,6,184.000.000,0,0,Senior Backend Engineer,6,S2,no
+15/02/2020 22:51:53,Laki-Laki,28,Tangerang,15,240.000.000,20.000.000,0,Head of Product Development,6,Sarjana,BPJS Kes + BPJSTK (JHT + Pensiun)
+15/02/2020 22:52:39,Perempuan,26,Jakarta,30,156.000.000,169.000.000,0,Software Developer,6,D3,
+15/02/2020 22:53:01,Laki-Laki,27,Wonosobo,7,36.000.000,6.000.000,0,Staff,2,S1,
+15/02/2020 23:04:52,Laki-Laki,28,Jakarta,4.000,215.000.000,52.000.000,0,Staf,5,S1,17jt
+15/02/2020 23:13:55,Laki-Laki,22,Bandung,40,96.000.000,6.000.000,0,SDE 1,2,S1,bpjs swasta mata gigi
+15/02/2020 23:16:37,Laki-Laki,26,Jakarta,15,1.560.000.000,182.000.000,0,Backend Developer,2,S1,BPJS
+15/02/2020 23:17:50,Laki-Laki,36,Jakarta Selatan,50,54.000.000,85.000.000,4.500.000,Admin & logistik IT,10,S1,Ada
+15/02/2020 23:27:06,Laki-Laki,26,Denpasar,50,240.000.000,100.000.000,0,Senior Software Engineer,5,S1,Astralife + BPJS kelas 1
+15/02/2020 23:30:47,Laki-Laki,29,Surabaya ,4,70.000.000,22.000.000,0,Staff,8,D3,360.000
+15/02/2020 23:37:20,Perempuan,25,Jakarta Selatan,500,150.000.000,180.000.000,0,Software Engineer,3,S1,"BPJS, Allianz"
+15/02/2020 23:43:31,Laki-Laki,25,Jakarta,1.000,240.000.000,300.000.000,0,Front End Software Engineer,3,S1,"Inpatient, dental, glasses"
+15/02/2020 23:55:17,Laki-Laki,21,Jakarta Timur,100,78.000.000,84.500.000,0,PHP Programmer,0,D3,Ada
+15/02/2020 23:55:55,Perempuan,21,Jakarta Selatan,4,39.600.000,3.301.800,0,IT Staff,8,SMK,Tidak ada
+15/02/2020 23:56:10,Laki-Laki,24,Jakarta,1.000,200.000.000,50.000.000,0,Programmer,1,S1,Ya
+16/02/2020 0:01:21,Laki-Laki,31,Jakarta,100,65.000.000,245.000.000,0,Staff,7,S2,Kecuali kosmetik dan narkoba
+16/02/2020 0:03:10,Laki-Laki,32,Tokyo,153,558.634.048,0,0,System Engineer,5,S2,Shakai Hoken
+16/02/2020 0:18:55,Laki-Laki,24,Jakarta Timur,15,126.000.000,0,0,Front end developer,3,D3,
+16/02/2020 0:27:39,Laki-Laki,25,Jakarta Selatan,5,180.000.000,15.000.000,0,Fullstack Dev (Mainly on frontend side),1,S1 Informatika + Coding Bootcamp,null
+16/02/2020 0:30:43,Laki-Laki,28,Jakarta,100,520.000.000,175.000.000,0,Senior Data Scientist,6,S1,BPJS
+16/02/2020 0:32:55,Laki-Laki,22,Jakarta,15,126.000.000,10.500.000,0,Junior Data Scientist,0,S1,
+16/02/2020 0:52:14,Laki-Laki,28,Jakarta,60,300.000.000,0,0,Sr. Data Scientist,3,S1,100000
+16/02/2020 0:57:20,Laki-Laki,26,Jakarta,500,108.000.000,22.000.000,0,Quality assurance,3,S1,"Dapet rawat inap, rawat jalan, cover istri dan 2 anak"
+16/02/2020 1:00:05,Laki-Laki,21,Bandung,240,62.400.000,0,0,Frontend Engineer,2,SMK,-
+16/02/2020 1:37:47,Laki-Laki,35,Jakarta,10,144.000.000,90.000.000,0,Technical Consultant,9,S2,
+16/02/2020 2:01:25,Laki-Laki,24,Jakarta,60,408.000.000,34.000.000,0,Senior Backend Engineer,3,S1,Ya
+16/02/2020 2:11:41,Laki-Laki,23,Tangerang,100,180.000.000,20.000.000,0,Software Engineer,5,S1,12000000
+16/02/2020 2:37:57,Laki-Laki,35,Bogor (Freelance),1,900.000.000,0,0,UI/UX Designer + Front-end Developer,13,S.Komp,self manage
+16/02/2020 3:42:52,Laki-Laki,26,Jakarta,100,955.000.000,135.000.000,3.000.000.000,Lead Engineer,5,Self taught,Full include extreme sport
+16/02/2020 4:39:35,Laki-Laki,35,Jakarta,17,444.000.000,100.000.000,0,Team Lead,11,S1 - Sarjana Komputer,
+16/02/2020 4:44:53,Laki-Laki,34,Surabaya,2,66.000.000,5.500.000,0,IT Staff,9,D3 Manajemen Informatika,BPJS
+16/02/2020 5:01:26,Laki-Laki,27,Jakarta Pusat,11,288.000.000,35.000.000,0,Data Tech Lead,6,S2,BPJS & Swasta
+16/02/2020 5:10:14,Laki-Laki,24,Jakarta,5.000,208.000.000,42.000.000,0,Data Analyst,4,S1,"Inpatient, outpatient, dental, istri, anak"
+16/02/2020 5:45:04,Laki-Laki,34,Jakarta Selatan,14,72.000.000,6.000.000,0,Database Engineer,10,S1 Teknik Informatika,
+16/02/2020 6:04:59,Laki-Laki,24,Surabaya,15,66.000.000,71.000.000,0,Backend Programmer,3,S1 ,-
+16/02/2020 6:45:10,Laki-Laki,31,Surabaya,30,46.800.000,15.900.000,0,Software Developer,5,SMK Farmasi,0
+16/02/2020 6:47:47,Perempuan,26,Singapore,106,1.200.000.000,17.500.000,0,Senior Software Engineer,5,Diploma 3,Full
+16/02/2020 7:16:43,Laki-Laki,26,Jakarta Pusat,100,200.400.000,57.400.000,0,Senior Analytics,3,S1,"Anak, istri: rawat inap, rawat jalan, dental, kacamata"
+16/02/2020 7:17:05,Laki-Laki,25,Jakarta,2.500,236.000.000,74.000.000,0,Software Engineer,3,Some college courses,"Inpatient, outpatient, dental, vision, maternity as charged"
+16/02/2020 7:47:38,Laki-Laki,22,Jakarta Selatan,200,96.000.000,8.000.000,0,Full-stack Engineer Trainee,0,"Self-taught, S1 (Teknik Sipil)",Rawat jalan 3jt dan rawat inap
+16/02/2020 7:47:54,Laki-Laki,29,Surabaya,11,204.000.000,0,0,Software Engineer,4,S1,
+16/02/2020 8:01:13,Laki-Laki,29,Jakarta,6,468.000.000,195.000.000,1.400.000.000,VP of Engineering,8,S1,"Rawat jalan, rawat inap"
+16/02/2020 8:02:33,Laki-Laki,28,Medan,2,48.000.000,20.000.000,0,"Data eng (xls,accdb, sql, pptx) ",5,S1 Teknik Informatika,kesehatan
+16/02/2020 8:27:32,Laki-Laki,24,Jakarta,100,336.000.000,56.000.000,0,Product Growth & Insight,4,S1,10000000
+16/02/2020 8:32:44,Laki-Laki,31,Jakarta,50,96.000.000,10.000.000,0,Senior front end,2,S2,Bpjs
+16/02/2020 8:52:01,Laki-Laki,26,Jakarta Barat,150,120.000.000,22.000.000,0,.NET Developer,3,S1 Teknik Informatika,BPJS
+16/02/2020 8:54:56,Laki-Laki,24,Jakarta,524,180.000.000,24.600.000,0,Software Engineer,1,SMA,Iya
+16/02/2020 9:06:05,Laki-Laki,26,Jakarta,12,144.000.000,12.000.000,0,Software Engineer,3,SMA,BPJS + Reimburse inpatient outpatient
+16/02/2020 9:08:53,Laki-Laki,27,Jakarta,500,120.000.000,200.000.000,0,Programmer,3,S1,
+16/02/2020 9:12:19,Perempuan,25,Jakarta,1.000,144.000.000,20.000.000,0,Quality Assurance,4,S1,Ada
+16/02/2020 9:21:54,Laki-Laki,33,Tangerang,3,168.000.000,20.000.099,0,Project lead,10,S1,Ya
+16/02/2020 9:22:33,Laki-Laki,50,Jakarta,100,500.000.000,150.000.000,0,Senior Manager,15,SMA,Ya
+16/02/2020 9:34:35,Laki-Laki,24,Jakarta,900,320.000.000,36.320.000,0,Software Engineer,1,S1 Ilmu Komputer,"BPJS Kes,BPJS Tk,Company Insurance"
+16/02/2020 9:40:32,Laki-Laki,27,Bandung,50,42.000.000,3.500.000,0,Backend Engineer,0,S1 Teknik Informatika,tidak ada
+16/02/2020 9:42:06,Laki-Laki,36,Jakarta,100,384.000.000,70.000.000,0,Technical Architect,13,"S2, MKom, Ilmu Komputer","BPJS, Rawat Inap, Rawat Jalan, Family, Kacamata,Dental"
+16/02/2020 10:24:54,Perempuan,22,Cimahi,6,42.000.000,45.500.000,,Administrator dan IT Support,2,Smk,
+16/02/2020 10:25:44,Laki-Laki,32,Singapore (remote),50,69.000.000,110.000.000,2.600.000.000,VP of Product,9,S1,
+16/02/2020 10:36:10,Laki-Laki,29,Bandung,300,99.000.000,4.000.000,0,Senior Programmer,7,S1,"BPJS Kes, BPJS TK"
+16/02/2020 10:38:53,Laki-Laki,26,Kuala Lumpur,800,200.000.000,80.000.000,0,Support Engineer,2,Bachelor,7000000
+16/02/2020 10:43:59,Laki-Laki,20,Depok,20,96.000.000,120.000.000,0,Software Engineer,-1,Senior Year CS Student,
+16/02/2020 11:01:50,Perempuan,22,Jakarta,8,120.000.000,30.000.000,,Product Analyst,0,Sarjana Komputer (Ilmu Komputer),"BPJS (all), Asuransi swasta (unlimited with cap for each penanganan)"
+16/02/2020 11:13:19,Laki-Laki,42,Denpasar,50,213.600.000,17.800.000,0,Programmer,16,S1,400000/bulan
+16/02/2020 11:22:54,Laki-Laki,28,Yogyakarta,5,27.000.000,0,0,Tenaga teknis,3,S.Kom / teknik informatika,Bpjs kesehataan
+16/02/2020 11:25:58,Laki-Laki,23,Jakarta,13,100.000.000,120.000.000,0,Junior UI/UX Designer,1,Information System - S.Kom,Bpjs kes dan TK
+16/02/2020 11:29:53,Laki-Laki,21,Bogor,50,96.000.000,30.000.000,0,Manager IT,2,SMK ,
+16/02/2020 11:33:15,Laki-Laki,23,Jakarta,100,53.000.000,60.000.000,0,IT Support,1,S1,"BPJS Kesehatan, BPJS TK"
+16/02/2020 11:33:16,Perempuan,26,Jakarta Selatan,500,123.000.000,16.000.000,0,Supervisor,2,"S.Pd., Informatika",
+16/02/2020 11:33:20,Laki-Laki,23,Jakarta,100,53.000.000,60.000.000,0,IT Support,1,S1,"BPJS Kesehatan, BPJS TK"
+16/02/2020 11:36:47,Laki-Laki,26,Jakarta,30,90.000.000,25.000.000,0,Head of Network Engineer,5,S1 (Sistem Komputer),"BPJS Kesehatan, BPJS Ketenagakerjaan, Asuransi, Trasportasi"
+16/02/2020 11:40:58,Laki-Laki,26,Surabaya,30,48.000.000,4.000.000,0,Senior Web Developer (Full Stack),4,D4 T. Informatika (S.ST),BPJS Tk
+16/02/2020 11:48:55,Laki-Laki,21,Bogor,50,96.000.000,150.000.000,,Mobile Developer,1,MAN,"bpjs ks,tk"
+16/02/2020 11:50:43,Laki-Laki,30,Denpasar,200,240.000.000,20.000.000,0,Senior Developer,8,S1,"Bpjs kes, TK, rawat inap, rawat jalan, dental, family"
+16/02/2020 11:51:48,Laki-Laki,22,Jakarta Pusat,45,72.000.000,50.000.000,0,"Software Engineer, Front-End",0,S1 Matematika,"Rawat Inap, Rawat Jalan, Family Coverage"
+16/02/2020 11:58:13,Laki-Laki,23,Bandung,100,66.525.336,81.525.336,0,Mid Back End Developer,5,S1 Teknik Informatika,"BPJS Kesehatan, BPJS Ketenagakerjaan, Reimburse"
+16/02/2020 11:59:20,Laki-Laki,25,DKI Jakarta ,2,84.000.000,14.000.000,0,IT Senior Staff,8,S1,
+16/02/2020 12:05:46,Laki-Laki,29,jakarta,100,415.000.000,70.000.000,0,Data Scientist,7,S2,all
+16/02/2020 12:09:00,Laki-Laki,26,Jakarta,3,60.000.000,11.000.000,0,Java developer,1,Sarjana,
+16/02/2020 12:11:33,Laki-Laki,23,Jakarta Selatan,150,90.000.000,14.000.000,25.000.000,Android Developer,1,S.Kom,"BPJS TK, BPJS Kes, Lippo Asuransi"
+16/02/2020 12:23:13,Laki-Laki,23,Jakarta,1.000,360.000.000,140.000.000,3.000.000,"Software Engineer, Backend",2,S1 Ilmu Komputer,"BPJS, Unlimited for Rawat Inap, 15juta for Rawat Jalan + Dental, 6 Juta for Kacamata + Activities"
+16/02/2020 12:29:35,Laki-Laki,22,Jakarta,50,12.000.000,10.000.000,0,Data Analyst,0,S1,"BPJS, Rawat Inap"
+16/02/2020 12:35:16,Laki-Laki,25,Jakarta,2.000,156.000.000,144.000.000,0,IT Staff,3,S2,"BPJS, Kacamata, Family, Rawat inap, rawat jalan"
+16/02/2020 12:42:02,Laki-Laki,21,Jakarta,600,156.000.000,0,0,Security Engineer,0,S1,Lengkap
+16/02/2020 12:44:52,Laki-Laki,24,Jaksel,500,73.000.000,40.000.000,0,Data Scientist,0,S1 Fisika,all
+16/02/2020 12:44:58,Perempuan,27,Jakarta,70,192.000.000,32.000.000,0,Tech Manager,5,S1 Teknik Informatika,"BPJS TK + Kes, Kacamata, Medcheck, Reimburse Rawat Jalan"
+16/02/2020 12:48:19,Perempuan,28,Jakarta,20,108.000.000,20.000.000,0,IT Consultant,5,S1 Informatika,"BPJS Kes + TK, Family, Rawat Inap, Rawat Jalan, Dental, Kacamata"
+16/02/2020 12:48:44,Perempuan,24,Jakarta,20,132.000.000,22.000.000,0,Data Engineer,3,S1,
+16/02/2020 12:48:52,Perempuan,26,Semarang,80,36.600.000,41.550.000,0,IT Staff,2,S1 - Teknik Komputer/ S.T,"BPJS TK, Rawat Inap+Jalan"
+16/02/2020 12:54:33,Laki-Laki,24,Jakarta,2.000,192.000.000,16.000.000,0,Mobile Software Development Engineer,0,S1 ,16000000
+16/02/2020 12:55:42,Laki-Laki,28,Jakarta ,100,296.000.000,120.000.000,0,IT Security Consultant,6,Sarjana komputer ,All of above
+16/02/2020 12:59:41,Perempuan,25,Jakarya,150,140.000.000,170.000.000,0,IT Staff,2,S1,
+16/02/2020 13:01:06,Laki-Laki,23,Jakarta,30,90.000.000,130.000.000,0,Full Stack Developer,2,SMA,Ada semua.
+16/02/2020 13:08:39,Laki-Laki,27,Surabaya (Remote),10,240.000.000,0,0,Software Engineer,6,D3,-
+16/02/2020 13:10:28,Laki-Laki,28,Jakarta,100,240.000.000,25.000.000,0,Senior Software Engineer,4,S1,
+16/02/2020 13:11:12,Laki-Laki,24,Gresik,300,54.000.000,0,0,Programmer,2,Smk,Bpjs
+16/02/2020 13:21:54,Laki-Laki,24,Bandung,20,135.000.000,150.000.000,0,Lead Infra,6,SMK,"BPJS Kes, BPJS TK"
+16/02/2020 13:28:08,Perempuan,25,Yogyakarta,30,3.600.000,0,0,UX Engineer,0,S1,0
+16/02/2020 13:38:50,Laki-Laki,22,Jakarta Selatan,6,72.000.000,0,0,Business Analyst,0,S1 Fisika,BPJS Kesehatan BPJS TK
+16/02/2020 13:58:46,Laki-Laki,28,Jakarta,100,30.000.000,62.000.000,0,CPNS,1,S1,Bpjs
+16/02/2020 14:09:20,Laki-Laki,27,Jakarta Selatan,500,72.000.000,12.000.000,0,Junior Developer,4,S1,Semua
+16/02/2020 14:10:12,Laki-Laki,25,Bandung,80,7.000.000,98.000.000,0,Mobile Developer,2,S1 - S.Kom. - Teknik Informatika,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage, Maks Reimburse = 1/2 Gaji"
+16/02/2020 14:16:17,Laki-Laki,24,Surabaya,10,4.000.000,500.000,0,Game Programmer,0,S1,
+16/02/2020 14:40:39,Laki-Laki,27,Jakarta,40,78.000.000,14.000.000,0,IT Application Support,4,S1,250000
+16/02/2020 14:46:41,Perempuan,27,Jakarta,1.000,300.000.000,56.000.000,0,Senior Software Engineer,5,SI Ilmu Komputer,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage"
+16/02/2020 14:47:19,Laki-Laki,34,Jakarta,15,330.000.000,55.000.000,0,Senior Developer,10,SMU,
+16/02/2020 14:58:18,Laki-Laki,26,Jakarta,1.000,200.000.000,40.000.000,0,Software Engineer,2,S2,"BPJS, Asuransi Eksternal"
+16/02/2020 16:10:41,Laki-Laki,27,Jakarta Selatan,32,120.000.000,24.300.000,0,Backend Developer,7,SMK jurusan mesin kapal,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Family Coverage"
+16/02/2020 16:20:02,Laki-Laki,19,Jakarta,70,90.000.000,104.000.000,0,Backend Engineer,2,SMK,bpjs tk
+16/02/2020 16:24:14,Laki-Laki,29,Jakarta,52,400.000.000,300.000.000,0,Product Manager,6,Master Degree on Social Science.,"Outpatient, in-patient 1st class, dental, glasses, reimburse as expense"
+16/02/2020 16:39:24,Laki-Laki,26,Jakarta,300,687.000.000,205.200.000,0,Software engineer,4,S1,"BPJS, Lippo"
+16/02/2020 16:43:35,Laki-Laki,26,Jakarta,500,480.000.000,64.000.000,0,Principal Engineer,4,S1,"BPJS, Reliance"
+16/02/2020 16:51:33,Perempuan,22,Jakarta,150,144.000.000,160.000.000,0,Associate Software Engineer,0,S1 Ilmu Komputer,"Reimburse transport, kacamata, reimburse kesehatan unlimited"
+16/02/2020 16:51:41,Laki-Laki,34,Jakarta,40,400.000.000,30.000.000,0,VP,15,S1,Reimburse
+16/02/2020 17:01:30,Perempuan,24,Jakarta,150,156.600.000,56.000.000,0,UI/UX Designer,3,S1 Teknik Informatika,All
+16/02/2020 17:04:00,Laki-Laki,25,Yogyakarta,500,37.512.000,43.438.000,700.000,Junior programmer,1,D4 informatika,"Bpjs kes, bpjs tk, asuransi private "
+16/02/2020 17:33:51,Laki-Laki,30,Jakarta,100,100.000.000,165.000.000,0,Manager,6,S1 Sistem Informasi,
+16/02/2020 17:37:43,Laki-Laki,21,Jakarta,40,102.000.000,110.500.000,0,Frontend Engineer ,3,SMK,-
+16/02/2020 17:47:54,Laki-Laki,22,Batam,500,110.000.000,120.000.000,0,Management Trainee,0,S1 Teknik Elektro,BPJS Kes & TK
+16/02/2020 18:24:27,Laki-Laki,26,Jakarta,100,180.000.000,230.000.000,0,Project Management Staff,5,S1,"Rawat Jalan/Inap, Dental, Kacamata, Family Coverage"
+16/02/2020 18:25:08,Laki-Laki,27,United States (Remote),1,360.000.000,0,0,Software Engineer,5,SMA,0
+16/02/2020 18:29:20,Laki-Laki,22,Malang,10,36.000.000,0,0,Assist Programmer,3,S. KOM.,0
+16/02/2020 18:47:35,Laki-Laki,22,Tangerang,5,60.000.000,0,0,Backend Developer,0,S1 Informatika,BPJS Kesehatan
+16/02/2020 18:51:48,Laki-Laki,22,Bandung ,30,84.000.000,0,0,Frontend Lead ,5,S1 (Teknik Informatika) ,bpjs
+16/02/2020 19:02:48,Perempuan,27,Jakarta,60,72.000.000,0,0,Quality Assurance,3,S1 Sistem Informasi,
+16/02/2020 19:04:55,Perempuan,24,Jakarta,70,126.000.000,137.500.000,0,Software Developer,1,S.Kom,6000000++
+16/02/2020 19:15:25,Laki-Laki,25,Jakarta,3000,54.000.000,0,0,Technician,2,S1,
+16/02/2020 19:21:31,Laki-Laki,25,Jakarta,1,100.800.000,230.400.000,0,Presales engineer,2,SMA,
+16/02/2020 19:23:11,Laki-Laki,36,Jakarta,30,516.000.000,0,0,Engineering Lead,15,SMA,All
+16/02/2020 19:26:15,Laki-Laki,29,Jakarta,2000,180.000.000,30.000.000,0,Business Intelligence,5,S2,"All, Max. 60jt/thn"
+16/02/2020 19:39:43,Laki-Laki,26,Singapore,96,780.000.000,65.000.000,265.000.000,Product Manager,3,"S1, Sarjana Komputer",Basic medical insurance
+16/02/2020 19:59:30,Perempuan,30,Jakarta Pusat,500,300.000.000,60.000.000,0,Product Manager,8,S1,"Unlimited reimburse untuk diri sendiri + keluarga, kacamata, BPJS Kes + TK, Dental"
+16/02/2020 20:26:54,Laki-Laki,20,Jakarta Selatan,20,104.500.000,20.700.000,0,Mobile Developer,2,SMK,10000000
+16/02/2020 20:30:37,Laki-Laki,29,Jakarta Selatan,200,714.000.000,119.000.000,0,Data Science Manager,5,S2,"Bpjs, rawat inap, rawat jalan, dental, kacamata, family"
+16/02/2020 20:52:20,Laki-Laki,37,Jakarta,40,550.000.000,0,0,Head of Product,10,Sastra Prancis S1,
+16/02/2020 21:13:52,Laki-Laki,23,Cikarang,5,60.000.000,12.000.000,82.000.000,Technical Support,1,Smk,
+16/02/2020 21:19:12,Laki-Laki,29,Jakarta ,53,144.000.000,156.000.000,0,Backend Engineer ,7,S1 Sistem Informasi ,"BPJS, reimburse"
+16/02/2020 21:40:03,Laki-Laki,23,Tangerang,60,108.000.000,0,0,Middle Android Dev,2,D3,
+16/02/2020 21:55:11,Laki-Laki,34,Sidoarjo,15,60.000.000,10.000.000,0,Product Designer,15,D1,BPJS Kes
+16/02/2020 21:55:54,Laki-Laki,25,Jakarta,100,180.000.000,19.200.000,15.000.000,"Software Engineer, Front End",3,Bcs ,15000000
+16/02/2020 22:21:55,Perempuan,24,jakarta,50,157.800.000,200.000.000,5,Product Manager,1,D4 IT,"BPJS TK, All, med"
+16/02/2020 22:22:19,Laki-Laki,26,Jakarta,100,78.000.000,90.000.000,0,Front end developer,0,Sarjana teknik S1,
+16/02/2020 22:27:37,Laki-Laki,22,Jakarta Pusat,9,84.000.000,7.000.000,0,Backend Engineer,1,S1,BPJS Kesehatan
+16/02/2020 22:35:26,Laki-Laki,22,Jakarta,100,115.000.000,3.000.000,0,Backend Engineer,1,S1,Semua
+16/02/2020 23:06:18,Laki-Laki,26,Kabupaten Pasuruan,15,75.600.000,13.500.000,0,Programmer,4,S1 Sistem Informasi (S.Kom.),150000
+16/02/2020 23:19:53,Laki-Laki,27,Semarang,12,40.000.000,45.000.000,5.000.000,Programmer,2,"S1, S.Kom",Bpjs
+16/02/2020 23:29:08,Laki-Laki,20,Karawang,2,48.000.000,6.000.000,0,"Android Dev, Motion Graph",2,SMA (IPA),-
+16/02/2020 23:29:42,Laki-Laki,19,Jakarta Timur,8,48.000.000,120.000.000,0,Head of android development,5,S1,Asuransi pihak ketiga
+16/02/2020 23:36:11,Laki-Laki,35,Jakarta Selatan,110,650.000.000,108.000.000,0,Software Architect,11,S1,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage, Maks Reimburse"
+17/02/2020 0:11:08,Laki-Laki,28,DKI Jakarta,300,181.500.000,200.000.000,0,Senior IT Developer,5,S1- Sistem Informasi,"BPJS Kes, PBJS TK, Asuransi Swasta, 1 Istri 3 anak"
+17/02/2020 3:10:20,Laki-Laki,25,Bandung,6,300.000.000,0,0,fullstack developer,3,smk,tidak ada
+17/02/2020 3:32:05,Laki-Laki,27,Jakarta,1000,400.000.000,44.000.000,500.000.000,Software Engineer Lead,5,S1,360000000
+17/02/2020 7:14:53,Laki-Laki,22,Malang,20,60.000.000,5.000.000,0,iOS Developer,1,S1,BPJS TK
+17/02/2020 7:23:05,Laki-Laki,24,Denpasar,50,48.000.000,52.000.000,0,Web Backend Developer,0,S. Kom,BPJS TK
+17/02/2020 8:17:28,Perempuan,22,Jakarta Utara,25,31.200.000,36.400.000,0,Staff Adm Tax,4,SMA,0
+17/02/2020 8:22:33,Laki-Laki,23,Jakarta,10,120.000.000,10.000.000,0,Software Engineer,1,S1 Sistem Informasi S.Kom,BPJS Kesehatan
+17/02/2020 9:07:48,Laki-Laki,22,Malang,10,36.000.000,0,0,Assist Programmer,3,S. KOM.,0
+17/02/2020 9:09:52,Laki-Laki,29,Jakarta,500,342.000.000,126.000.000,0,Senior iOS Developer,5,S1,"BPJS Kes, BPJS TK, Health Insurance"
+17/02/2020 9:47:39,Laki-Laki,23,Jakarta,10,60.000.000,0,0,UI UX Designer,1,S1 Teknik Informatika,0
+17/02/2020 10:04:04,Laki-Laki,28,Jakarta,50,216.000.000,18.000.000,0,Staff Programmer,3,S1,2500000
+17/02/2020 10:07:48,Laki-Laki,22,Jakarta,20,93.600.000,3.000.000,0,Backend Developer,0,S1,
+17/02/2020 10:10:17,Laki-Laki,22,Surabaya,12,44.400.000,48.100.000,0,Web Developer,2,SMK,
+17/02/2020 10:17:15,Laki-Laki,29,Jakarta Selatan,600,252.000.000,40.000.000,0,Assisten Manager,5,S1 Sistem informasi,23000000
+17/02/2020 10:27:16,Laki-Laki,32,Jakarta,9,360.000.000,30.000.000,0,Senior Backend Engineer,9,S2 Sistem Informasi,"BPJS Kes, BPJS TK"
+17/02/2020 10:27:19,Perempuan,27,Jakarta,1000,228.000.000,30.000.000,0,Quality Assurance (Engineer),6,S1 (Sistem Informasi),"BPJS, Rawat inap, rawat jalan, dental, kacamata, family coverage"
+17/02/2020 11:00:45,Laki-Laki,30,DKI Jakarta,1000,480.000.000,760.000.000,0,Senior Manager,9,S1 + 8 sertifikasi profesi,"Lengkap Unlimited, VIP Class"
+17/02/2020 11:08:34,Perempuan,28,Jakarta,20,180.000.000,30.000.000,0,Business Analyst,4,S1 Finance,"BPJS Kes, BPJS TK, Asuransi Swasta"
+17/02/2020 12:00:12,Laki-Laki,32,Malang,700,240.000.000,60.000.000,0,Software Engineer,10,S.Kom,"BPJS TK 1 Keluarga, Asuransi Swasta Keluarga"
+17/02/2020 12:36:09,Perempuan,22,Depok,300,78.000.000,20.000.000,0,Associate Product Manager,"1,5",S1 Teknik Informatika,"BPJS Kes, BPJS TK, asuransi rawat inap&jalan, kacamata, family coverage"
+17/02/2020 12:44:30,Perempuan,30,DKI Jakarta,200,252.000.000,51.000.000,0,Product Manager,7,S1,"BPJS kes, BPJS tk, rawat inap, rawat jalan, dental, kacamata"
+17/02/2020 13:01:18,Laki-Laki,30,Kota Malang,12,10.000.000,2.000.000,2.000.000,Dosen/ketua program studi TI,3,Magister Manajemen Konsentrasi Sistem Informasi. S1 teknik informatika konsentrasi jaringan.,BPJS Kes
+17/02/2020 13:04:31,Laki-Laki,21,Jakarta,300,392.000.000,82.000.000,0,Software Engineer,2,S1,Ya
+17/02/2020 13:13:24,Perempuan,26,Malang,10,36.000.000,36.000.000,0,Staff,3,S1,BPJS
+17/02/2020 13:29:10,Laki-Laki,31,Jakarta,21,216.000.000,296.000.000,0,IT Department Head,8,S1,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Kacamata, Family Coverage"
+17/02/2020 13:34:47,Laki-Laki,30,Jakarta,10,92.400.000,100.100.000,0,Senior Backen Developer,8,S1,"BPJS Kes, BPJS TK,Rawat Jalan"
+17/02/2020 13:38:52,Laki-Laki,27,Amsterdam,80,790.000.000,0,0,Software Developer,4,S1 Teknik Informatika,"Sport budget (€150), Education budget (€1000), Pension plan"
+17/02/2020 15:10:49,Laki-Laki,30,Yogyakarta,800,120.000.000,420.000.000,0,Programmer,3,S1,"BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage, "
+17/02/2020 16:46:13,Laki-Laki,32,Malang,50,132.000.000,0,0,ML Engineer,2,S2,FWD + BPJS
+17/02/2020 16:51:35,Laki-Laki,25,Bandung,30,54.000.000,7.000.000,0,Android,4,S1,Reimburse
+17/02/2020 16:53:25,Laki-Laki,24,Malang,30,36.000.000,3.000.000,0,Tester,2,S1,0
+17/02/2020 17:08:15,Laki-Laki,22,Malang,30,42.000.000,2.500.000,0,Programmer,3,Sma,"Bpjs kes, bpjs tk"
+17/02/2020 17:22:45,Laki-Laki,27,Jakarta,15000,240.000.000,400.000.000,0,Senior Manager,5,S2,"BPJS Kes, BPJS TK, Rawat Inap, Rapat Jalan, Dental, Kacamata, Family Coverage"
+17/02/2020 17:35:41,Laki-Laki,27,Jakarta,200,250.000.000,250.000.000,250.000.000,Software Engineer,5,S1,Mandiri
+17/02/2020 17:57:01,Laki-Laki,30,Malang,30,120.000.000,140.000.000,0,Senior Backend Engineer,8,S.Kom,"BJPS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage"
+17/02/2020 18:19:29,Laki-Laki,25,Jakarta,37,137.856.000,30.000.000,0,Front-end Engineer,3,S1,"BPJS Kesehatan, BPJS Ketenagakerjaan, FWD"
+17/02/2020 20:40:47,Laki-Laki,24,Surabaya,8,54.000.000,500.000,0,Web Developer,1,S1,No
+17/02/2020 23:33:44,Laki-Laki,40,Jakarta,1500,139.000.000,48.000.000,0,Analyst IT product development,7,"S1, S kom","Rawat inap, rawat jalan, dental, kacamata, family coverage"
+18/02/2020 0:38:25,Laki-Laki,25,Jakarta,220,300.000.000,0,0,Senior Software Engineer,3,D3,"Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage"
+18/02/2020 2:23:33,Laki-Laki,25,Barcelona,3000,667.000.000,90.000.000,75.000.000,Software Engineer,4,S1,
+18/02/2020 9:10:39,Laki-Laki,24,Jakarta/Jakarta Barat,3000,266.880.000,90.000.000,0,Senior Data Analyst,2,S1 Sistem Informasi,"BPJS Kes, BPJS TK, Rawat Snap, Rawat Jalan, Dental, Kacamata, Family Coverage, etc"
+18/02/2020 9:30:00,Laki-Laki,28,Gresik,350,64.000.000,10.000.000,0,Senior Engineer,4,D4/S1,"BPJS Kes, BPJS TK"
+18/02/2020 10:22:41,Laki-Laki,40,Jakarta,50,2.000.000.000,5.000.000.000,15.000.000.000,Head of Innovation,20,SMA,250000000
+18/02/2020 10:51:57,Laki-Laki,36,Yogyakarta (Remote Jakarta),500,700.000.000,250.000.000,1.000.000.000,Lead Engineer,15,S2 MM,
+18/02/2020 14:24:24,Laki-Laki,35,jakarta selatan,500,624.000.000,700.000.000,23,Product Engineer,15,S2,
+18/02/2020 15:09:03,Laki-Laki,22,Sleman,6,24.000.000,0,0,Web Dev,1,D3,
+18/02/2020 16:43:18,Laki-Laki,30,Malaysia (Remote),8744,384.000.000,0,0,Software Engineer,5,S1,
+18/02/2020 17:02:55,Laki-Laki,34,Jakarta,1000,480.000.000,80.000.000,0,FrontEnd Engineer,6,S1,Full Coverage for spouse and Parents
+18/02/2020 17:15:45,Laki-Laki,33,Jakarta,9,138.000.000,150.000.000,0,Senior Developer,7,S1 Ilmu Komputer,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage"
+18/02/2020 19:41:59,Laki-Laki,27,Jakarta Barat,9,70.000.000,6.000.000,0,Mobile Developer,2,SMA IPA,"BPJS KESEHATAN, BPJS TK, REIMBURSE"
+19/02/2020 0:39:58,Laki-Laki,25,Jakarta Selatan,500,110.000.000,25.000.000,5.000.000,software engineer,3 tahun,S2,"bpjs, 25 juta"
+19/02/2020 7:25:27,Laki-Laki,24,Jakarta,100,144.000.000,11.000.000,0,Mobile Developer,1,Sarjana Teknik Elektro,unlimited
+19/02/2020 8:32:59,Laki-Laki,33,Jakarta,1000,235.000.000,75.000.000,0,Specialist,9,S1 Teknik Informatika,
+19/02/2020 9:14:35,Laki-Laki,30,Jakarta ,200,168.000.000,200.000.000,0,Senior IT Executive,8,SMK Administrasi Perkantoran,BPJS. Manulife
+19/02/2020 9:15:06,Laki-Laki,30,Jakarta,100,187.000.000,40.000.000,0,IT,10,S1,-
+19/02/2020 10:20:14,Laki-Laki,22,Jakarta,200,96.000.000,30.000.000,0,Associate Product Manager,0,S1 Sistem Informasi,"BPJS TK, Rawat Inap, Rawat Jalan, Dental, Family Coverage"
+19/02/2020 16:30:04,Laki-Laki,28,Jakarta,1000,264.000.000,46.000.000,25.000.000,Senior Software Engineer,4,S1 Sistem Informasi,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan, Dental, Kacamata, Family Coverage, 22000000"
+19/02/2020 18:26:49,Laki-Laki,36,Jakarta,8,300.000.000,50.000.000,250.000.000,Consultant,13,S1,Maks Reimburse
+19/02/2020 18:50:26,Laki-Laki,33,jakarta,30,204.000.000,374.000.000,0,digital forensik,10,s2,"bpjs kes, bpjs tk, rawat inap, rawat jalan, dental, kacamata, max reimburse unlimited."
+19/02/2020 21:27:12,Laki-Laki,30,Jakarta,10,122.500.000,10.000.000,0,Product Manager,7,S1,"BPJS Kes, BPJS TK, Asuransi Swasta, Family Coverage"
+20/02/2020 13:40:19,Laki-Laki,33,Jakarta,500,480.000.000,60.000.000,0,Manager,10,S2,Lengkap
+20/02/2020 14:27:42,Laki-Laki,30,Jakarta,100,600.000.000,50.000.000,0,Software Engineering Manager,6,S1,"BPJS Kes, BPJS TK, Rawat Inap, Rawat Jalan"
+20/02/2020 21:12:52,Laki-Laki,33,Ternate,3,80.000.000,,,IT Staff,12,S1,BPJS Kes dan TK
+21/02/2020 4:29:09,Laki-Laki,27,kudus,10,250000000,100000000,,project manager,9,S1,
+21/02/2020 10:31:50,Laki-Laki,32,Bandung,30,1960200000,163350000,,Software Architect,11,SMK Automotive,
+21/02/2020 12:16:50,Laki-Laki,22,Jakarta,7,6000000,,0,IT Programmer,4,SMK,BPJS TK dan Kes
+22/02/2020 9:55:15,Laki-Laki,24,Jakarta Selatan,2,80400000,,112300000,Executive,3,Diploma IV - S. Tr. Kom.,7000000
+23/02/2020 9:30:49,Laki-Laki,23,Bandung,300,150000000,230000000,0,Software Developer Engineer,1,S1 Teknologi Informasi,"BPJS, Rawat Inap, Rawat Jalan, Kacamata, Family Coverage"
+25/02/2020 19:06:13,Laki-Laki,23,Jakarta Selatan,3000,330000000,,,Sr. Software Engineer,3,"S1 Informatika, S.Kom",
+27/02/2020 14:04:37,Laki-Laki,35,jakarta,100,200000,20000000,,dev,10,s.kom,"bpjs, rawat jalan"
