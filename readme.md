@@ -8,19 +8,20 @@ hanya visualisasi saja. lainnya original gan no modif.
 pendidikan di bikin kategori jenjang pendidikan (s1, s2, SMA, self taught).    
 
 
-berawal dari tweet [ini](https://twitter.com/petrabarus/status/1228607065481809921) 
+berawal dari tweet [ini](https://twitter.com/petrabarus/status/1228607065481809921)      
 ![](https://i.imgur.com/mICBtpD.png)
 
-yang menghasilkan csv [ini](https://docs.google.com/spreadsheets/d/1DBE6v5nYliDCUl8IQR9b-KS9-wlkw9-Wp2K0pQqNg6o/edit#gid=1811584495)
+## data
+csv [ini](https://docs.google.com/spreadsheets/d/1DBE6v5nYliDCUl8IQR9b-KS9-wlkw9-Wp2K0pQqNg6o/edit#gid=1811584495)
 
 
 ## results
 akhirnya membuahkan pada (katanya sih) gaji orang IT di indo 400 responden. [EDA here](01_EDA.ipynb)
 
-dari korelasi pearson, umur dan gaji per tahun paling tinggi skornya. 
+dari korelasi pearson, umur dan pengalaman per tahun paling tinggi skornya. (ya iyalah halo)
 ![](https://i.imgur.com/HOx4ddE.png)
 
-jadi kalau di plot umur terhadap gaji, dan dipisahkan oleh gender di dapat: 
+jika diplot umur terhadap gaji, dan dipisahkan oleh gender didapat: 
 ![](https://i.imgur.com/Thgtxu5.png)
 
 
